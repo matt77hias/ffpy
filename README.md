@@ -1,2 +1,2 @@
 # ffpy
-FormFactor Utilities
+FormFactor utilities
