@@ -9,7 +9,7 @@
 A small Python library for calculating formfactors.
 
 ## Use
-<p align="center"><img src="res/FFo.png" width="429"><img src="res/FFp.png" width="429"></p>
+<p align="center"><img src="res/FFo.png" width="410"><img src="res/FFp.png" width="410"></p>
 
 ~~~python
 from formfactor import ff_orthogonal_3D, ff_parallel_3D
